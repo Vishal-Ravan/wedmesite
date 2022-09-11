@@ -1,0 +1,628 @@
+
+/* index */
+
+
+/* first navbar  */
+.navbar-pink{
+    background-color: rgb(240, 49, 78);
+
+}
+.padin{
+    padding-left: 0!important;
+    padding-right: 0!important;
+ 
+}
+
+
+.do{
+    color: white;
+}
+.buttn-header{
+    width: 16rem;
+    background-color: rgb(248, 249, 250);
+    text-align: left;
+}
+.first-para{
+    color: aliceblue;
+    margin-right: 2rem;
+}
+
+.first-icon {
+    margin-left: 19rem;
+    margin-right: 0.7rem;
+  }
+  .second-icon {
+    margin-left: 3rem;
+    margin-right: 1rem;
+  }
+
+  /* second-navbar */
+
+  .navbar-darkpink{
+      background-color: palevioletred;
+  }
+  .second-header-button{
+      background-color: palevioletred;
+      margin-left: 0.3rem;
+      color: white;
+  }
+  .second-header-search-icon{
+      margin-left: 13rem;
+  }
+  .search-bar{
+      margin-left: 3rem;
+      text-align: center;
+      width: 9rem !important;
+      
+      background-color: rgb(240, 49, 78);
+      border-radius: 1rem;
+  }
+
+
+  /* banner image */
+
+  .banner-image{
+      height: 40rem;
+      object-fit: cover;
+  }
+  .body-forms{
+      display: flex;
+      margin-left: 6rem ;
+  }
+.banner-forms1{
+    width: 20rem;
+}
+.banner-forms2{
+    width: 20rem;
+}
+
+  .banner-bttn{
+ height: 2.5rem;
+ width: 8rem;
+ color: white;
+ background-color: palevioletred;
+
+  }
+
+  /* wedsafe */
+
+
+  .wedsafe-h5{
+      
+      text-align:right;
+     
+  }
+
+  
+.mlt {
+
+    margin-left: 6rem;
+
+}
+
+
+
+  /* singh-crousel */
+  .singh-body{
+width: 19rem!important;
+border: none;
+
+  }
+  .singh-crosel{
+           width: 6rem !important;
+        height: 7rem !important;
+        padding: 2rem !important;
+        margin-top: 1rem !important;
+      
+  }
+  .txt-color
+{
+    color: rgb(206, 15, 47);
+}
+
+  .singh-card-bodyy{
+      height: 8rem;
+      background-color: rgba(93, 247, 255, 0.315);
+      border-radius: 10px;
+  }
+
+  .bridal-image{
+      width: 69rem !important;
+object-fit: cover;
+  }
+.zoom{
+    pad: 2rem;
+    transition: transform .3s;
+    width: 52rem !important;
+  height: 13rem;
+}
+.zoom:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+  width: 52rem !important;
+  height: 13rem;
+}
+
+  /* vishal1-crosel */
+
+  .vishal1-row-margin{
+      margin-top: 5rem;
+  }
+  .card-img.vishal2-crosel {
+    height: 20rem;
+    object-fit: cover;
+  }
+  .border-card{
+      border: none;
+  }
+  .vishal1-crosel{
+      
+      width: 10rem !important;
+      height: 10rem;
+  }
+  .vishal1-crosele{
+      height: 10rem;
+  }
+
+
+  /* vishal-crosel */
+  .vishal2-crosel{
+      height: 14rem;
+width: auto;
+    
+  }
+  .vishal2-border{
+      border: none;
+  }
+  .title-center{
+      text-align: center;
+  }
+
+
+
+/* 2 side col */
+
+.for-height{
+    height: 8rem;
+    
+}
+.bgc{
+    background-color: rgb(134, 134, 204);
+}
+.bgc1{
+    background-color: antiquewhite;
+}
+.bgc2{
+    background-color: rgb(170, 235, 213);
+
+}
+.bgc3
+{
+    background-color: rgb(241, 145, 128);
+
+}
+.bgc4{
+    background-color: rgba(118, 153, 219, 0.466);
+}
+.bgc5
+{
+    background-color: thistle;
+}
+.for-height1{
+    height: 8rem;
+    object-fit: cover;
+    clip-path: ellipse(99% 140px at 100% 50%);
+width: 15rem;
+}
+
+
+/*  wedesta */
+
+.btn-for-center{
+   
+width: 13rem;
+height: 4rem;
+
+
+}
+.body-for-center{
+text-align: center;
+}
+  
+.grht
+{
+    height: 17rem;
+    object-fit: cover;
+}
+
+/*  save wedding idea */
+
+
+.ico{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.PhoneInputInput{
+    width: 22rem;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+
+.phone{
+    height: 22rem;
+width: 11rem;
+margin-top: 3rem;
+margin-bottom: 3rem;
+margin-left:3rem;
+}
+
+.box{
+    background-color: bisque;
+}
+.mrgin-center{
+    justify-content: center;
+display: grid;
+}
+.btn-size
+{
+    width: 17rem;
+    border-radius: 5em;
+    background-color: palevioletred;
+}
+ 
+.icoon{
+    margin-left: 5rem;
+}
+
+
+
+
+
+
+
+/* gallery */
+.h5-center{
+    text-align: center;
+    color: rgb(219, 48, 105);
+}
+
+.galleryht{
+    height: 19rem;
+    padding: 6px;
+}
+.radis{
+    border-radius: 1rem;
+}
+
+
+/* feature vendor */
+
+.featurehgt{
+    height: 15rem;
+}
+.bodhgt{
+    height: 15rem;
+}
+
+.for-color{
+    color: rgb(228, 6, 43);
+}
+.txt-col{
+    color: rgb(207, 196, 196);
+}
+.txt-colo{
+    color: rgb(97, 79, 79);
+}
+/* contact us */
+
+.btn1{
+    width: 10rem;
+    margin-right: 1.4rem;
+    height: 4rem;
+
+}
+.btn2{
+    width: 10rem;
+    height: 4rem;
+}
+
+
+
+
+
+
+
+
+/*     seconnd page                           ******************************** */
+
+.opacity{
+    opacity: .0;
+}
+body{
+    background-color: rgb(253, 253, 253);
+}
+
+.visha1a-crosel{
+    height: 25rem;
+}
+.f-p{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: bisque;
+}
+.brrws-size{
+    width: 5rem !important;
+    border-radius: 3rem;
+    height: 5rem;
+    object-fit: cover;
+    
+}
+.wd{
+    width: 16rem;
+}
+.brows{
+padding: 1rem;
+background-color: bisque;
+}
+.brows1{
+    padding: 1rem;
+    background-color: blanchedalmond;
+}
+.brows2{
+    padding: 1rem;
+    background-color: aquamarine;
+}
+.brows3{
+    padding: 1rem;
+    background-color: cornsilk;
+}
+.brows4{
+    padding: 1rem;
+    background-color: wheat;
+}
+.brows5{
+    padding: 1rem;
+    background-color: thistle;
+}
+.brows6{
+    padding: 1rem;
+    background-color: tan;
+}
+.brows7{
+    padding: 1rem;
+    background-color: teal;
+}
+.brows8{
+    padding: 1rem;
+    background-color: cornflowerblue;
+}
+.brows9{
+    padding: 1rem;
+    background-color: cadetblue;
+}
+.brows10{
+    padding: 1rem;
+    background-color: crimson;
+}
+.brows11{
+    padding: 1rem;
+    background-color: aqua;
+}
+.brows12{
+    padding: 1rem;
+    background-color: aquamarine;
+}
+.wd h6{
+    color: rgb(68, 67, 67);
+}
+
+
+
+
+/*       vishal5b */
+.v5b{
+    width: 20rem;
+    height: 29rem;
+    text-align: center;
+    border: none;
+    width: 18rem;
+    background-color: bisque;
+    padding: 1rem;
+    padding-left: 4.5rem;
+}
+.v5b-image{
+    height: 23rem;
+    object-fit: cover;
+}
+.vishal5b{
+    background-color: bisque;
+}
+.btn-outl{
+    width: 19rem;
+    height: 4rem;
+    border: 2px solid burlywood;
+    justify-content: center;
+    display: grid;
+    background-color: white;
+    margin-left: 24rem;
+    align-items: center;
+    color: rgb(235, 138, 19);
+}
+.mgfor1{
+    margin-top: 8rem;
+}
+
+
+
+/* vishal 3a */
+.brdr{
+    border: none;
+}
+
+
+.colorfooter{
+    background-color: blue;
+}
+.cop{
+    color: white;
+}
+.cop1{
+    color: white;
+}
+
+.form-select.form-select-lg {
+    width: 15rem;
+    margin-left: 2rem;
+    height: 2.5rem;
+  }
+
+
+
+
+
+/*  form***************************************************** */
+
+.form-row{
+    text-align: center;
+}
+.rev{
+   margin-left: 20rem;
+}
+.sizee{
+    width: 46rem;
+    margin-left: 13rem;
+    padding: 2rem;
+    background-color: rgb(176, 191, 192);
+}
+
+.btn-rt{
+    margin-left: 22rem;
+}
+
+.addpic{
+    background-color: white;
+}
+
+.sub-review{
+    margin-left: 1rem;
+background-color: rgb(221, 78, 107);
+
+}
+.footterr{
+    background-color: rgb(205, 216, 216);
+}
+
+/* / download app model heder1 */
+.pop-img{
+    height: 15rem;
+}
+
+
+
+
+
+/* search html */
+#\34 e790af9-efe4-ae07-c5d2-3c9980bb23fe {
+    width: 56rem;
+    height: 3rem;
+  }
+
+  .wht{
+      background-color: rgb(245, 16, 157);
+      border: none;
+     height: 3rem;
+     width: 11rem;
+  }
+
+  .pcent{
+      text-align: center;
+  }
+  .h4cent{
+      text-align: center;
+  }
+  .btn-wthe{
+      width: 13rem;
+      margin-bottom: 1rem;
+      border-radius: 1rem;
+      background-color: white;
+      border: 1px solid rgb(53, 51, 51);
+  }
+
+  .centp{
+      text-align: center;
+      margin-top: 7rem;
+  }
+
+
+
+  /* searchbar */
+
+  .bgimag{
+    background-image: url('https://ichef.bbci.co.uk/news/976/cpsprodpb/106BC/production/_115106276_whatsappimage2020-10-25at12.00.20pm.jpg');
+    height: 38rem;
+    width: 28rem;
+    object-fit: fill;
+    color: white;
+  }
+
+  .signcent{
+      text-align: center;
+  }
+  .or{
+      text-align: center;
+  }
+  .cenp{
+      text-align: center;
+  }
+  .fb{
+      text-align: center;
+  }
+  .forpd{
+margin-top: 11rem;
+text-align: center;
+  }
+  .blue{
+      background-color: blue;
+      color: white;
+  }
+
+
+/* media query */
+
+
+@media screen and (max-width : 700px) {
+    
+.colorfooter{
+    background-color: brown;
+}
+
+}
+
+@media screen and (max-width : 700px) {
+    
+    .padin{
+    width: 100%;
+    }
+    
+    }
+
+
+
+    @media screen and (max-width : 500px) {
+    
+        .pad{
+        width: 100%;
+        }
+        
+        }
+        @media screen and (max-width : 500px) {
+    
+            .form-select{
+            width: 100%;
+            }
+            
+            }
